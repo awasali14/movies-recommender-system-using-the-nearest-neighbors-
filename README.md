@@ -1,10 +1,10 @@
 # Movies-recommender-system-using-the-nearest-neighbors-
 
-### What was your motivation?
+### What was my motivation?
 
 Our motivation behind this project was to analyze and gain insights from the MovieLens dataset. We were interested in exploring the movie ratings data and understanding patterns, trends, and relationships between users, movies, and ratings.
 
-### Why did you build this project?
+### Why did I build this project?
 
 We built this project to explore the MovieLens dataset and demonstrate how MATLAB can be used for data analysis and visualization. By analyzing movie ratings, we aimed to provide useful information and insights to users, such as identifying popular movies, trends over time, and making personalized movie recommendations.
 
@@ -12,7 +12,7 @@ We built this project to explore the MovieLens dataset and demonstrate how MATLA
 
 This project solves the problem of analyzing and extracting meaningful information from a large movie ratings dataset. It allows users to gain insights into the dataset, such as understanding user behavior, identifying highly rated movies, and making predictions for unrated movies using a nearest neighbor approach. The project provides a comprehensive analysis of the movie ratings data, enabling users to make informed decisions and recommendations.
 
-### What did you learn?
+### What did I learn?
 
 Through this project, we learned several key aspects of data analysis and manipulation using MATLAB. We gained experience in working with tabular data, extracting information from text fields, creating logical variables, joining and merging tables, and performing statistical computations. Additionally, we learned about the nearest neighbor method for making predictions and the importance of considering data characteristics when selecting appropriate prediction strategies. Overall, this project enhanced our skills in data analysis, visualization, and understanding user preferences and behavior based on ratings data.
 
